@@ -8,7 +8,7 @@ A pixel-perfect clone of the Zerodha homepage built with HTML and CSS. This proj
 
 ## 🚀 Demo
 
-[Live Demo](#) <!-- Add your GitHub Pages or deployment link here -->
+[Live Demo](#) (https://zerodha-indol.vercel.app/)
 
 ## 📋 Table of Contents
 
@@ -137,15 +137,7 @@ Contributions are welcome! Here's how you can help:
 - [ ] Optimize for performance
 - [ ] Add accessibility features
 
-## 📝 TODO
 
-- [ ] Create comprehensive CSS file
-- [ ] Add smooth scroll behavior
-- [ ] Implement mobile-first approach
-- [ ] Add hover effects and transitions
-- [ ] Optimize images for web
-- [ ] Add form validation for signup
-- [ ] Implement dark mode toggle
 
 ## ⚡ Performance Optimizations
 
