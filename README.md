@@ -17,7 +17,6 @@ A pixel-perfect clone of the Zerodha homepage built with HTML and CSS. This proj
 - [Technologies Used](#technologies-used)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
-- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -81,13 +80,6 @@ zerodha-landing-page/
     └── images/
 ```
 
-## 📱 Screenshots
-
-### Desktop View
-![Desktop Screenshot](#) <!-- Add screenshot here -->
-
-### Mobile View
-![Mobile Screenshot](#) <!-- Add screenshot here -->
 
 ## 🎨 Key Sections
 
@@ -179,12 +171,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 This is a personal project created for educational purposes. All assets, logos, and content belong to Zerodha. This is not affiliated with or endorsed by Zerodha Broking Ltd.
 
-## 📞 Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_twitter) - your.email@example.com
-
-Project Link: [https://github.com/your-username/zerodha-landing-page](https://github.com/your-username/zerodha-landing-page)
-
----
 
 ⭐ Star this repository if you found it helpful!
